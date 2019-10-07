@@ -20,3 +20,7 @@ td:hover{
 .winner{
     background-color: aquamarine;
 }
+
+#info{
+    margin: 50px;
+}
